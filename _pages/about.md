@@ -34,7 +34,7 @@ My research interest includes computer vision/graphics, virtual human and human-
 
 Han Liang, Yannan He, **Chengfeng Zhao**, Mutian Li, Jingya Wang, Jingyi Yu, Lan Xu
 
-*The 37th AAAI Conference on Artificial Intelligence (AAAI), 2022.*
+*The 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.*
 
 - For more information, please refer to the [**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC).
   
