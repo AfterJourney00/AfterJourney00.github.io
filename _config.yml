@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengfeng Zhao"
-description              : "Chengfeng Zhao's personal homepage. "
+description              : "Master student at Visualization and Data Intelligence Center(VDI), ShanghaiTech University.\n Focusing on computer vision/graphics, virtual/digital human."
 repository               : "AfterJourney00/AfterJourney00.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chengfeng Zhao"
+  name             : "Chengfeng Zhao(赵乘风)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "ShanghaiTech University"
   location         : "Shanghai, China"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-8649-7470"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
