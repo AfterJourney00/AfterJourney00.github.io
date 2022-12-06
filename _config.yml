@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chengfeng Zhao"
-description              : "Master student at Visualization and Data Intelligence Center(VDI), ShanghaiTech University.\n Focusing on computer vision/graphics, virtual/digital human."
+title                    : "Chengfeng Zhao(赵乘风)"
+description              : "Master student at Visual & Data Intelligence Center(VDI Center), ShanghaiTech University.\n Focusing on computer vision/graphics, virtual human."
 repository               : "AfterJourney00/AfterJourney00.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chengfeng Zhao(赵乘风)"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Chengfeng Zhao\n(赵乘风)"
+  avatar           : "images/profile.jpg"
   bio              : "ShanghaiTech University"
   location         : "Shanghai, China"
   employer         :
