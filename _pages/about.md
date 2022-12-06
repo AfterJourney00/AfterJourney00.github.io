@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master Student of Visual and Data Intelligence Center(视觉与数据智能中心), ShanghaiTech University, supervised by [Prof. Lan Xu(许岚)](https://www.xu-lan.com/). I received my Bachelor's degree also from ShanghaiTech.
+I am currently a Master Student of Visual & Data Intelligence Center(视觉与数据智能中心), ShanghaiTech University, supervised by [Prof. Lan Xu(许岚)](https://www.xu-lan.com/). I received my Bachelor's degree also from ShanghaiTech.
 
 My research interest includes computer vision/graphics, virtual human and human-object interactions(HOI).
 
@@ -33,6 +33,8 @@ My research interest includes computer vision/graphics, virtual human and human-
 **HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions** [\[PDF\]](https://arxiv.org/pdf/2203.09287.pdf)
 
 Han Liang, Yannan He, **Chengfeng Zhao**, Mutian Li, Jingya Wang, Jingyi Yu, Lan Xu
+
+*The 37th AAAI Conference on Artificial Intelligence (AAAI), 2022.*
 
 - For more information, please refer to the [**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC).
   
