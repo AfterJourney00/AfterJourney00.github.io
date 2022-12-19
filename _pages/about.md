@@ -32,11 +32,9 @@ My research interest includes computer vision/graphics, virtual human and human-
 
 **HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions** [\[PDF\]](https://arxiv.org/pdf/2203.09287.pdf)
 
-Han Liang, Yannan He, **Chengfeng Zhao**, Mutian Li, Jingya Wang, Jingyi Yu, Lan Xu
-
 *The 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.*
 
-- For more information, please refer to the [**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC).
+**Authors:** Han Liang, Yannan He, <ins>Chengfeng Zhao</ins>, Mutian Li, Jingya Wang, Jingyi Yu, Lan Xu
   
 </div>
 </div>
@@ -46,10 +44,11 @@ Han Liang, Yannan He, **Chengfeng Zhao**, Mutian Li, Jingya Wang, Jingyi Yu, Lan
 
 **LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors** [\[PDF\]](https://arxiv.org/pdf/2205.15410.pdf)
 
-**Chengfeng Zhao\***, Yiming Ren\*, Yannan He, Peishan Cong, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma
+*In arXiv, 2022.*
+
+**Authors:** <ins>Chengfeng Zhao</ins>\*, Yiming Ren\*, Yannan He, Peishan Cong, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma
 
 - \* represents equal contribution.
-- For more information, please refer to the [**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC).
   
 </div>
 </div>
