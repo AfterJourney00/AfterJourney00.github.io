@@ -32,7 +32,7 @@ My research interest includes computer vision/graphics, virtual human and human-
 
 **LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors** [\[PDF\]](https://arxiv.org/pdf/2205.15410.pdf)
 
-*In IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VR), 2023.*
+*IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VR), 2023.*
 
 **Authors:**  Yiming Ren\*, <ins>Chengfeng Zhao</ins>\*, Yannan He, Peishan Cong, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma
 
