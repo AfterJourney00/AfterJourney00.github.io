@@ -27,6 +27,20 @@ My research interest includes computer vision/graphics, virtual human and human-
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/LIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors** [\[PDF\]](https://arxiv.org/pdf/2205.15410.pdf)
+
+*In IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VR), 2023.*
+
+**Authors:**  Yiming Ren\*, <ins>Chengfeng Zhao</ins>\*, Yannan He, Peishan Cong, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma
+
+- \* represents equal contribution.
+  
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/HybriCap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,20 +49,6 @@ My research interest includes computer vision/graphics, virtual human and human-
 *The 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.*
 
 **Authors:** Han Liang, Yannan He, <ins>Chengfeng Zhao</ins>, Mutian Li, Jingya Wang, Jingyi Yu, Lan Xu
-  
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In arXiv</div><img src='images/LIP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors** [\[PDF\]](https://arxiv.org/pdf/2205.15410.pdf)
-
-*In arXiv, 2022.*
-
-**Authors:** <ins>Chengfeng Zhao</ins>\*, Yiming Ren\*, Yannan He, Peishan Cong, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma
-
-- \* represents equal contribution.
   
 </div>
 </div>
@@ -71,4 +71,4 @@ My research interest includes computer vision/graphics, virtual human and human-
 
 # 💻 Internships
 
-- *2021.06 - 2021.09*, [SenseTime](https://www.sensetime.com/cn/about-index), Shanghai.
+- *2021.06 - 2021.09*, [SenseTime](https://www.sensetime.com/cn/about-index), Shanghai, China.
