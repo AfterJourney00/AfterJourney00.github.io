@@ -23,6 +23,7 @@ My research interest includes computer vision/graphics, virtual human and human-
 
 # 🔥 News
 
+- *2023.01*: &nbsp;🎉🎉 One paper is accepted by TVCG 2023!
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2023!
 
 # 📝 Publications
