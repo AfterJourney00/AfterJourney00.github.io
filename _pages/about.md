@@ -31,7 +31,7 @@ My research interest includes computer vision/graphics, virtual human and human-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/LIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors** [\[PDF\]](https://arxiv.org/pdf/2205.15410.pdf)
+**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors** [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049734)
 
 *IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VR), 2023.*
 
