@@ -59,17 +59,19 @@ My research interest includes computer vision/graphics, virtual human and human-
 - *2022.06* **"Outstanding Graduate of Shanghai"**, Undergraduate.
 - *2022.06* **"Outstanding Graduate of ShanghaiTech University"**, Undergraduate.
 
+# 💬 Teaching Assistants
+
+- *2022 Fall & 2023 Fall*, CS280, Deep Learning, ShanghaiTech University.
+- *2022 Spring*, CS100, Introduction to Programming, ShanghaiTech University.
+- *2021 Fall*, CS130, Operating Systems, ShanghaiTech University.
+- *2021 Spring*, SI100B, Introduction to Information Science and Technology, ShanghaiTech University.
+
+# 💻 Internships
+
+- *2021.06 - 2021.09*, [SenseTime](https://www.sensetime.com/cn/about-index), Shanghai, China.
+
 # 📖 Educations
 
 - *2022.09 - now*, Master, ShanghaiTech University, Shanghai, China. 
 - *2018.09 - 2022.06*, Bachelor, ShanghaiTech University, Shanghai, China.
 - *2015.09 - 2018.06*, High School Affiliated to Nanjing Normal University, Nanjing, China.
-
-<!--# 💬 Invited Talks
-
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
-
-# 💻 Internships
-
-- *2021.06 - 2021.09*, [SenseTime](https://www.sensetime.com/cn/about-index), Shanghai, China.
