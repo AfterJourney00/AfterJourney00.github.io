@@ -68,7 +68,15 @@ My research interest includes computer vision/graphics, virtual human and human-
 
 # 💻 Internships
 
-- *2021.06 - 2021.09*, [SenseTime](https://www.sensetime.com/cn/about-index), Shanghai, China.
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/SenseTime_logo.png' alt="sym" width="100%"></div></div>
+<div class='exp-box-text' markdown="1">
+
+[SenseTime](https://www.sensetime.com/cn/about-index), Shanghai, China.
+
+*2021.06 - 2021.09*
+
+</div>
+</div>
 
 # 📖 Educations
 
