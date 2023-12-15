@@ -27,25 +27,39 @@ My research interest includes computer vision/graphics, virtual human and human-
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2023!
 
 # 📝 Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/LIP.png' alt="sym" width="100%"></div></div>
+<!-- arXiv2023 I'M HOI -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/imhoi.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors** [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049734)
+**I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions** [\[arXiv\]](https://arxiv.org/abs/2312.08869) [\[Project Page\]](https://afterjourney00.github.io/IM-HOI.github.io/)
+
+*arXiv, 2023.*
+
+**Authors:** <ins>Chengfeng Zhao</ins>, Juze Zhang, Jiashen Du, Ziwei Shan, Junye Wang, Jingyi Yu, Jingya Wang, Lan Xu
+  
+</div>
+</div>
+
+<!-- TVCG2023 LIP -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/lip.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors** [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049734)
 
 *IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VR), 2023.*
 
-**Authors:**  Yiming Ren\*, <ins>Chengfeng Zhao</ins>\*, Yannan He, Peishan Cong, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma
+**Authors:** Yiming Ren\*, <ins>Chengfeng Zhao</ins>\*, Yannan He, Peishan Cong, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma
 
 - \* represents equal contribution.
   
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/HybriCap.png' alt="sym" width="100%"></div></div>
+<!-- AAAI2023 HybridCap -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/hybridcap.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions** [\[PDF\]](https://arxiv.org/pdf/2203.09287.pdf)
+**HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions** [\[arXiv\]](https://arxiv.org/abs/2203.09287)
 
 *The 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.*
 
@@ -79,7 +93,39 @@ My research interest includes computer vision/graphics, virtual human and human-
 </div>
 
 # 📖 Educations
+<!-- master, shanghaitech -->
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/shanghaitech.png' alt="sym" width="100%"></div></div>
+<div class='exp-box-text' markdown="1">
 
-- *2022.09 - now*, Master, ShanghaiTech University, Shanghai, China. 
-- *2018.09 - 2022.06*, Bachelor, ShanghaiTech University, Shanghai, China.
-- *2015.09 - 2018.06*, High School Affiliated to Nanjing Normal University, Nanjing, China.
+**Master**
+
+[ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), Shanghai, China.
+
+*2022.09 - now*
+
+</div>
+</div>
+
+<!-- bachelor, shanghaitech -->
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/shanghaitech.png' alt="sym" width="100%"></div></div>
+<div class='exp-box-text' markdown="1">
+
+**Bachelor**
+
+[ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), Shanghai, China.
+
+*2018.09 - 2022.06*
+
+</div>
+</div>
+
+<!-- bachelor, shanghaitech -->
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/nsfz.jpg' alt="sym" width="100%"></div></div>
+<div class='exp-box-text' markdown="1">
+
+[High School Affiliated to Nanjing Normal University](https://www.nsfz.net/), Nanjing, China.
+
+*2015.09 - 2018.06*
+
+</div>
+</div>
