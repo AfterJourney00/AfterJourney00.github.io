@@ -36,6 +36,8 @@ My research interest includes computer vision/graphics, virtual human and human-
 *arXiv, 2023.*
 
 **Authors:** <ins>Chengfeng Zhao</ins>, Juze Zhang, Jiashen Du, Ziwei Shan, Junye Wang, Jingyi Yu, Jingya Wang, Lan Xu
+
+**Abstract:** We present I'm-HOI, a monocular scheme to faithfully capture the 3D motions of both the human and object in a novel setting: using a minimal amount of RGB camera and object-mounted Inertial Measurement Unit (IMU).
   
 </div>
 </div>
@@ -51,6 +53,8 @@ My research interest includes computer vision/graphics, virtual human and human-
 **Authors:** Yiming Ren\*, <ins>Chengfeng Zhao</ins>\*, Yannan He, Peishan Cong, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma
 
 - \* represents equal contribution.
+
+**Abstract:** We propose a multi-sensor fusion method for capturing challenging 3D human motions using single LiDAR and 4 IMUs.
   
 </div>
 </div>
@@ -64,6 +68,8 @@ My research interest includes computer vision/graphics, virtual human and human-
 *The 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.*
 
 **Authors:** Han Liang, Yannan He, <ins>Chengfeng Zhao</ins>, Mutian Li, Jingya Wang, Jingyi Yu, Lan Xu
+
+**Abstract:** We present a light-weight, hybrid mocap technique called HybridCap that augments the camera with only 4 Inertial Measurement Units (IMUs) in a learning-and-optimization framework.
   
 </div>
 </div>
@@ -75,10 +81,10 @@ My research interest includes computer vision/graphics, virtual human and human-
 
 # 💬 Teaching Assistants
 
-- *2022 Fall & 2023 Fall*, CS280, Deep Learning, ShanghaiTech University.
-- *2022 Spring*, CS100, Introduction to Programming, ShanghaiTech University.
-- *2021 Fall*, CS130, Operating Systems, ShanghaiTech University.
-- *2021 Spring*, SI100B, Introduction to Information Science and Technology, ShanghaiTech University.
+- *2022 Fall & 2023 Fall*, **CS280: Deep Learning**, ShanghaiTech University.
+- *2022 Spring*, **CS100: Introduction to Programming**, ShanghaiTech University.
+- *2021 Fall*, **CS130: Operating Systems**, ShanghaiTech University.
+- *2021 Spring*, **SI100B: Introduction to Information Science and Technology**, ShanghaiTech University.
 
 # 💻 Internships
 
