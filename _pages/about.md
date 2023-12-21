@@ -19,7 +19,10 @@ redirect_from:
 
 I am currently a Master Student of Visual & Data Intelligence Center(视觉与数据智能中心), ShanghaiTech University, supervised by [Prof. Lan Xu(许岚)](https://www.xu-lan.com/). I received my Bachelor's degree also from ShanghaiTech.
 
-My research interest includes computer vision/graphics, virtual human and human-object interactions(HOI).
+My research interest includes:
+- 3D computer vision/graphics,
+- Human-centric motion understanding,
+- LLM-enhanced motion reasoning.
 
 # 🔥 News
 
