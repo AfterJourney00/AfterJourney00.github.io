@@ -34,7 +34,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/imhoi.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions**
+[**I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions**](https://afterjourney00.github.io/IM-HOI.github.io/)
 
 *arXiv, 2023.*
 
@@ -49,7 +49,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/lip.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors**
+[**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors**](https://ieeexplore.ieee.org/document/10049734?denied=)
 
 *IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VR), 2023.*
 
@@ -66,7 +66,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/hybridcap.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions**
+[**HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions**](https://arxiv.org/abs/2203.09287)
 
 *The 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.*
 
