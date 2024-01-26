@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master Student of Visual & Data Intelligence Center(视觉与数据智能中心), ShanghaiTech University, supervised by [Prof. Lan Xu(许岚)](https://www.xu-lan.com/). I received my Bachelor's degree also from ShanghaiTech.
+I am currently a second-year master student at Visual & Data Intelligence Center of ShanghaiTech University, supervised by [Prof. Lan Xu](https://www.xu-lan.com/). I am also fortunate to work closely with [Prof. Jingyi Yu](https://scholar.google.com/citations?user=R9L_AfQAAAAJ) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/). Before graduate study, I received my bachelor degree from ShanghaiTech.
 
-My research interest includes:
+My research interests include:
 - 3D computer vision/graphics,
 - Human-centric motion understanding,
 - LLM-enhanced motion reasoning.
