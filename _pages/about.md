@@ -31,7 +31,7 @@ My research interests include:
 - *2022.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2023!
 
 # 📝 Publications
-<!-- arXiv2023 I'M HOI -->
+<!-- CVPR2024 I'M HOI -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/imhoi.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,6 +42,38 @@ My research interests include:
 **Authors:** <ins>Chengfeng Zhao</ins>, Juze Zhang, Jiashen Du, Ziwei Shan, Junye Wang, Jingyi Yu, Jingya Wang, Lan Xu
 
 **Abstract:** We present I'm-HOI, a monocular scheme to faithfully capture the 3D motions of both the human and object in a novel setting: using a minimal amount of RGB camera and object-mounted Inertial Measurement Unit (IMU).
+  
+</div>
+</div>
+
+<!-- CVPR2024 HOI-M3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/hoim3.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- <a href="https://afterjourney00.github.io/IM-HOI.github.io/" style="text-decoration:none">**HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment**<sup>🔗</sup></a> -->
+**HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment**
+
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
+
+**Authors:** Juze Zhang\*, Jingyan Zhang\*, Zining Song, Zhanhe Shi, <ins>Chengfeng Zhao</ins>, Ye Shi, Jingyi Yu, Lan Xu, Jingya Wang
+
+**Abstract:** In this paper, we introduce HOI-M$^3$, a novel large-scale dataset for modeling the interactions of Multiple huMans and Multiple objects.
+  
+</div>
+</div>
+
+<!-- CVPR2024 LiveHPS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/livehps.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- <a href="https://afterjourney00.github.io/IM-HOI.github.io/" style="text-decoration:none">**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**<sup>🔗</sup></a> -->
+**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**
+
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
+
+**Authors:** Yiming Ren, Xiao Han, <ins>Chengfeng Zhao</ins>, Jingya Wang, Lan Xu, Jingyi Yu, Yuexin Ma 
+
+**Abstract:** In this paper, we present LiveHPS, a novel single LiDAR-based approach for scene-level Human Pose and Shape estimation without any limitation of light conditions and wearable devices.
   
 </div>
 </div>
