@@ -26,17 +26,18 @@ My research interests include:
 
 # 🔥 News
 
-- *2023.01*: &nbsp;🎉🎉 One paper is accepted by TVCG 2023!
-- *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2023!
+- *2024.02*: &nbsp;🎉🎉 3 papers accepted to CVPR 2024!
+- *2023.01*: &nbsp;🎉🎉 1 paper accepted to TVCG 2023!
+- *2022.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2023!
 
 # 📝 Publications
 <!-- arXiv2023 I'M HOI -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/imhoi.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/imhoi.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://afterjourney00.github.io/IM-HOI.github.io/" style="text-decoration:none">**I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions**<sup>🔗</sup></a>
 
-*arXiv, 2023.*
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
 
 **Authors:** <ins>Chengfeng Zhao</ins>, Juze Zhang, Jiashen Du, Ziwei Shan, Junye Wang, Jingyi Yu, Jingya Wang, Lan Xu
 
@@ -49,7 +50,7 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/lip.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://ieeexplore.ieee.org/document/10049734?denied=" style="text-decoration:none">**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors**<sup>🔗</sup></a>
+<a href="https://4dvlab.github.io/project_page/LIPD.html" style="text-decoration:none">**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors**<sup>🔗</sup></a>
 
 *IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VR), 2023.*
 
@@ -94,7 +95,7 @@ My research interests include:
 <div class='exp-box'> <div class='exp-box-image'><div><img src='images/SenseTime_logo.png' alt="sym" width="100%"></div></div>
 <div class='exp-box-text' markdown="1">
 
-[SenseTime](https://www.sensetime.com/cn/about-index), Shanghai, China.
+[SenseTime](https://www.sensetime.com/en), Shanghai, China.
 
 *2021.06 - 2021.09*
 
