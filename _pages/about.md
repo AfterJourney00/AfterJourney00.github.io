@@ -112,12 +112,18 @@ My research interests include:
 
 # 🎖 Honors and Awards
 
-- *2022.06* **"Outstanding Graduate of Shanghai"**, Undergraduate.
-- *2022.06* **"Outstanding Graduate of ShanghaiTech University"**, Undergraduate.
+- Graduate:
+  - *2023.12* **"Merit Student"**
+- Undergraduate:
+  - *2022.06* **"Outstanding Graduate of Shanghai"**
+  - *2022.06* **"Outstanding Graduate of ShanghaiTech University"**
+  - *2021.12* **"Outstanding Student Leader"**
+  - *2021.12* **"Outstanding Student"**
+  - *2020.12* **"Merit Student"**
 
 # 💬 Teaching Assistants
 
-- *2022 Fall & 2023 Fall*, **CS280: Deep Learning**, ShanghaiTech University.
+- *2023 Fall & 2022 Fall*, **CS280: Deep Learning**, ShanghaiTech University.
 - *2022 Spring*, **CS100: Introduction to Programming**, ShanghaiTech University.
 - *2021 Fall*, **CS130: Operating Systems**, ShanghaiTech University.
 - *2021 Spring*, **SI100B: Introduction to Information Science and Technology**, ShanghaiTech University.
