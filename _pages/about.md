@@ -65,7 +65,7 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/livehps.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a style="text-decoration:none">**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**</a>
+<a href="https://arxiv.org/abs/2402.17171" style="text-decoration:none">**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**<sup>🔗</sup></a>
 
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
 
