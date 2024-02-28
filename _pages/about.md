@@ -50,8 +50,7 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/hoim3.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- <a href="https://afterjourney00.github.io/IM-HOI.github.io/" style="text-decoration:none">**HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment**<sup>🔗</sup></a> -->
-**HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment**
+<a style="text-decoration:none">**HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment**</a>
 
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
 
@@ -66,8 +65,7 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/livehps.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- <a href="https://afterjourney00.github.io/IM-HOI.github.io/" style="text-decoration:none">**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**<sup>🔗</sup></a> -->
-**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**
+<a style="text-decoration:none">**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**</a>
 
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
 
