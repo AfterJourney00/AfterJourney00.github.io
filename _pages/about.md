@@ -111,6 +111,7 @@ My research interests include:
 # 🎖 Honors and Awards
 
 - Graduate:
+  - *2024.03* **"Outstanding Teaching Assistant"**
   - *2023.12* **"Merit Student"**
 - Undergraduate:
   - *2022.06* **"Outstanding Graduate of Shanghai"**
