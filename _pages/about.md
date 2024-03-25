@@ -108,7 +108,7 @@ My research interests include:
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 
 - Graduate:
   - *2024.03* **"Outstanding Teaching Assistant"**
@@ -120,7 +120,7 @@ My research interests include:
   - *2021.12* **"Outstanding Student"**
   - *2020.12* **"Merit Student"**
 
-# 💬 Teaching Assistants
+# 💭 Teaching Assistants
 
 - *2023 Fall & 2022 Fall*, **CS280: Deep Learning**, ShanghaiTech University.
 - *2022 Spring*, **CS100: Introduction to Programming**, ShanghaiTech University.
