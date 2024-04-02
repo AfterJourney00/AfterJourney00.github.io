@@ -50,7 +50,7 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/hoim3.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a style="text-decoration:none">**HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment**</a>
+<a href="https://juzezhang.github.io/HOIM3_ProjectPage/" style="text-decoration:none">**HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment**<sup>🔗</sup></a>
 
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
 
