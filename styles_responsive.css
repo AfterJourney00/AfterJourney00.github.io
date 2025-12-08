@@ -50,8 +50,8 @@
     grid-template-columns: 24% 76%;
     gap: 10px;
     align-items: center;
-    margin: 0px;
-    margin-top: 0px;
+    margin: 0 auto;
+    margin-top: 0 auto;
     max-width: 1040px;
   }
 
@@ -61,8 +61,8 @@
     grid-template-columns: 24% 76%;
     gap: 10px;
     align-items: center;
-    margin: 0px;
-    margin-top: 0px;
+    margin: 0 auto;
+    margin-top: 0 auto;
     max-width: 1040px;
     background-color: #f0f0f0;
   }
