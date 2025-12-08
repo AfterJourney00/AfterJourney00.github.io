@@ -113,6 +113,11 @@ hr {
       margin-top: 20px;
     }
 
+  .highlightcontainer2 {
+      grid-template-columns: 100%;
+      margin-top: 20px;
+    }
+
   .item {
     padding: 5px;
   }
