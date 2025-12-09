@@ -50,8 +50,8 @@
     grid-template-columns: 24% 76%;
     gap: 10px;
     align-items: center;
-    margin: 0 auto;
-    margin-top: 0 auto;
+    margin-bottom: 6px;
+    margin-top: 6px;
     max-width: 1040px;
   }
 
@@ -61,8 +61,8 @@
     grid-template-columns: 24% 76%;
     gap: 10px;
     align-items: center;
-    margin: 0 auto;
-    margin-top: 0 auto;
+    margin-bottom: 6px;
+    margin-top: 6px;
     max-width: 1040px;
     background-color: #f0f0f0;
   }
@@ -111,11 +111,13 @@ hr {
   .container2 {
       grid-template-columns: 100%;
       margin-top: 20px;
+      margin-bottom: 20px;
     }
 
   .highlightcontainer2 {
       grid-template-columns: 100%;
       margin-top: 20px;
+      margin-bottom: 20px;
     }
 
   .item {
